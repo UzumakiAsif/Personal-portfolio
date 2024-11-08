@@ -54,22 +54,22 @@ export const info = {
     ],
     socials: [
         {
-            link: "https://www.facebook.com/OSAMA.BIN.REFAT/",
+            link: "https://www.facebook.com/Uzumaki.Asif/",
             icon: 'fa fa-facebook',
             label: 'facebook'
         },
         {
-            link: "https://www.instagram.com/refat_anaf/",
+            link: "/",
             icon: 'fa fa-instagram',
             label: 'instagram'
         },
         {
-            link: "https://github.com/refat441",
+            link: "https://github.com/UzumakiAsif",
             icon: "fa fa-github",
             label: 'github'
         },
         {
-            link: "https://www.linkedin.com/in/refat-ahmed-2784811b0/",
+            link: "/",
             icon: "fa fa-linkedin",
             label: 'linkedin'
         }
@@ -77,11 +77,11 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm Refat. I'm a Software Engineer for Soluty Pvt. Ltd. I studied Ccomputer Science and Engineering(CSE) at Independent University, Bangladesh (IUB),I'm a MERN stack developer skilled in creating user-friendly web applications using React, Node.js, and Tailwind CSS, with strong knowledge in MySQL and MongoDB. You should hire me!",
+    bio: "Hello! I'm Asif. I studied Ccomputer Science and Engineering(CSE) at East West University (EWU),I'm a MERN stack developer skilled in creating user-friendly web applications using React, Node.js, and Tailwind CSS, with strong knowledge in MySQL and MongoDB. You should hire me!",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap','tailwind css', 'html5', 'css3'],
-            exposedTo: ['nodejs','express js', 'python','php','java','figma','tinkercad','autodesk fusion 360']
+            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3'],
+            exposedTo: ['nodejs', 'python','java','figma','tinkercad']
         }
     ,
     hobbies: [
@@ -108,26 +108,26 @@ export const info = {
         {
             title: "Inventory Dashboard",
             live: "https://qibla.netlify.app/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/refat441", // this should be a link to the **repository** of the project, where the code is hosted.
+            source: "https://github.com/UzumakiAsif", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
         },
         {
             title: "Hajj & Umrah Agency",
             live: "https://qibla.netlify.app/",
             // live: "https://paytonpierce.dev",
-            source: "https://github.com/refat441",
+            source: "https://github.com/UzumakiAsif",
             image: mock2
         },
         {
             title: "Restaurant Front-End",
             live: "https://refat441.github.io/Indian_Restaurant/",
-            source: "https://github.com/refat441",
+            source: "https://github.com/UzumakiAsif",
             image: mock3
         },
         {
             title: "Zan-Web",
             live: "https://refat441.github.io/Zan-Web/",
-            source: "https://github.com/refat441",
+            source: "https://github.com/UzumakiAsif",
             image: mock4
         },
         // {
